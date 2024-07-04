@@ -11,7 +11,11 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 
 Here are a few highlights of my work:<br>
 **[Eshop](https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
-  option for creating an account, loging in if alredy an user. Adding new products and editing them.
+  option for creating an account, loging in if alredy an user. Adding new products and editing them.<br>
+
+  -Pictures:<br>
+  ![Home page](desktop/1.png)
+
 
 -**[Personal Web Page][]**: Currently working on my personal web page about me and my experience.
 
