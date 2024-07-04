@@ -24,6 +24,7 @@ Here are a few highlights of my work:<br>
 
 - **[Weather App](https://github.com/DanielRuvchee/Weather-App)**: Weather Application. Shows real-time weather forecast
   ![Capture](https://github.com/DanielRuvchee/DanielRuvchee/assets/97626963/1fc1ca70-c01a-4b5a-a789-055da6e30445)
+  <br>
 -**[Personal Web Page][]**: Currently working on my personal web page about me and my experience.
 
 
