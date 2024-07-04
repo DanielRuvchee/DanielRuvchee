@@ -14,7 +14,7 @@ Here are a few highlights of my work:<br>
   option for creating an account, loging in if alredy an user. Adding new products and editing them.<br>
 
   -Pictures:<br>
-  ![Home page](1.png)
+  ![1](https://github.com/DanielRuvchee/DanielRuvchee/assets/97626963/860d9321-a970-44f8-8ec1-34d5fd971605)
 
 
 -**[Personal Web Page][]**: Currently working on my personal web page about me and my experience.
