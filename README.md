@@ -13,10 +13,10 @@ Here are a few highlights of my work:<br>
 - **[Eshop](https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
   option for creating an account, loging in if alredy an user. Adding new products and editing them.<br>
   <br>
-
-
+  
 - **[Weather App](https://github.com/DanielRuvchee/Weather-App)**: Weather Application. Shows real-time weather forecast
   <br>
+  
 - **[Personal Web Page][]**: Currently working on my personal web page about me and my experience.
 
 
