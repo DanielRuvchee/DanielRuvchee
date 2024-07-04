@@ -14,7 +14,7 @@ Here are a few highlights of my work:<br>
   option for creating an account, loging in if alredy an user. Adding new products and editing them.<br>
 
   -Pictures:<br>
-  ![Home page](desktop/1.png)
+  ![Home page](1.png)
 
 
 -**[Personal Web Page][]**: Currently working on my personal web page about me and my experience.
