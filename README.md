@@ -19,9 +19,11 @@ Here are a few highlights of my work:<br>
   ![3](https://github.com/DanielRuvchee/DanielRuvchee/assets/97626963/ba244575-b193-4c75-ad63-230e02167e50)
   ![4](https://github.com/DanielRuvchee/DanielRuvchee/assets/97626963/6c4151fd-affc-4fdf-80b8-fa3b1038b4e1)
   ![45](https://github.com/DanielRuvchee/DanielRuvchee/assets/97626963/39d16df7-b77c-4d62-99e6-374d46a88bbd)
+  <br>
 
 
-
+- **[Weather App](https://github.com/DanielRuvchee/Weather-App)**: Weather Application. Shows real-time weather forecast
+  ![Capture](https://github.com/DanielRuvchee/DanielRuvchee/assets/97626963/1fc1ca70-c01a-4b5a-a789-055da6e30445)
 -**[Personal Web Page][]**: Currently working on my personal web page about me and my experience.
 
 
