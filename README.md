@@ -22,7 +22,7 @@ Here are a few highlights of my work:<br>
 ## Skills
 
 - **Languages**: Java, Python, JavaScript, C++, C#,
-- **Web Development**: HTML, CSS, Django, React, Tailwind, Bootstrap, Angular, React, Vue, RESTful API Design
+- **Web Development**: HTML, CSS, Django, React, Tailwind, Bootstrap, React, Vue, RESTful API Design
 - **Databases**: PostgreSQL, MySQL
 - **Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm)
 
