@@ -5,7 +5,7 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 ## About Me
 
 - 📚 Currently studying Computer Science at Faculty of Computer Science and Engineering in Skopje.
-- 💻 Fascinated by web development, artificial intelligence, and open-source projects.
+- 💻 Fascinated by web development, artificial intelligence.
 
 ## Projects
 
