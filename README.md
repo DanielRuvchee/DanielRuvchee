@@ -24,7 +24,7 @@ Here are a few highlights of my work:<br>
 - **Languages**: Java, Python, JavaScript, C++, C#,
 - **Web Development**: HTML, CSS, Django, React, Tailwind, Bootstrap, React, Vue, RESTful API Design
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm)
+- **Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm), Kibana, Grafana.
 
 ## Get in Touch
 
