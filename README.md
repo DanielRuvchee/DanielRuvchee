@@ -5,7 +5,7 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 ## About Me
 
 - 📚 Currently studying Computer Science at Faculty of Computer Science and Engineering in Skopje.
-- 💻 Fascinated by web development, artificial intelligence.
+- 💻 Fascinated by web development.
 
 ## Projects
 
@@ -24,7 +24,7 @@ Here are a few highlights of my work:<br>
 ## Skills
 
 - **Languages**: Java, Python, JavaScript, C++, C#,
-- **Web Development**: HTML, CSS, Django, React, Tailwind, Bootstrap, React, Vue, RESTful API Design
+- **Web Development**: HTML, CSS, Django, React, ReactNative, NextJS Tailwind, Bootstrap, React, Vue, RESTful API Design
 - **Databases**: PostgreSQL, MySQL
 - **Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm), Kibana, Grafana.
 
