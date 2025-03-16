@@ -12,10 +12,7 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 Here are a few highlights of my work:<br>
 - **[Eshop](https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
   option for creating an account, loging in if alredy an user. Adding new products and editing them.<br>
-  
-- **[Weather App](https://github.com/DanielRuvchee/Weather-App)**: Weather Application. Shows real-time weather forecast
   <br>
-  
 - **[RestaurantApp ](https://github.com/DanielRuvchee/RestaurantApp)**: React Native mobile application for a Pizza Restaurant.
   <br>
 - **[Movie WebApp ](https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
