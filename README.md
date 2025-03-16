@@ -27,7 +27,7 @@ Here are a few highlights of my work:<br>
 
 ## Get in Touch
 
-- 📫 You can reach me at [famruvcheski@gmail.com]
+- 📫 You can reach me at famruvcheski@gmail.com
 - 💼 Connect with me on [LinkedIn](www.linkedin.com/in/daniel-ruvcheski-5031a6237)
 - 📸 Follow me on [Instagram](https://www.instagram.com/danielruvchee/)
 
