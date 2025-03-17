@@ -16,7 +16,9 @@ Here are a few highlights of my work:<br>
 - **[RestaurantApp ](https://github.com/DanielRuvchee/RestaurantApp)**: React Native mobile application for a Pizza Restaurant.
   <br>
 - **[Movie WebApp ](https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
-
+  <br>
+- **[BlogRuvche ](https://github.com/DanielRuvchee/BlogRuvche))**: NextJS, Tailwind, Shadcn, Neon, Prisma.
+  
 
 ## Skills
 
