@@ -17,13 +17,13 @@ Here are a few highlights of my work:<br>
   <br>
 - **[Movie WebApp ](https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
   <br>
-- **[BlogRuvche ](https://github.com/DanielRuvchee/BlogRuvche))**: NextJS, Tailwind, Shadcn, Neon, Prisma.
+- **[BlogRuvche ](https://github.com/DanielRuvchee/BlogRuvche)**: NextJS, Tailwind, Shadcn, Neon, Prisma.
   
 
 ## Skills
 
 - **Languages**: Java, Python, JavaScript, C++, C#,
-- **Web Development**: HTML, CSS, Django, React, ReactNative, NextJS Tailwind, Bootstrap, React, Vue, RESTful API Design
+- **Web Development**: HTML, CSS, Django, React, ReactNative, NextJS Tailwind, Bootstrap, React, Vue, RESTful API Design, Shadcn
 - **Databases**: PostgreSQL, MySQL
 - **Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm), Kibana, Grafana.
 
