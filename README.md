@@ -11,20 +11,20 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 
 Here are a few highlights of my work:<br>
 - **Eshop**<br>
-- **(https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
+  **(https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
   option for creating an account, loging in if alredy an user. Adding new products and editing them.
   <br>
 - **RestaurantApp**<br>
-- **(https://github.com/DanielRuvchee/RestaurantApp)**: React Native mobile application for a Pizza Restaurant.
+  **(https://github.com/DanielRuvchee/RestaurantApp)**: React Native mobile application for a Pizza Restaurant.
   <br>
 - **Movie WebApp**<br>
-- **(https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
+  **(https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
   <br>
 - **BlogRuvche**<br>
-- **(https://github.com/DanielRuvchee/BlogRuvche)**: NextJS, Tailwind, Shadcn, Neon, Prisma.
+  **(https://github.com/DanielRuvchee/BlogRuvche)**: NextJS, Tailwind, Shadcn, Neon, Prisma.
   <br>
 - **JobBoard**<br>
-- **(https://github.com/DanielRuvchee/JobBoard)**: Something simillar like LinkedIn(but created by me) with NextJS, Tailwind, AuthJS, Arcjet, Inngest, Shadcn, Neon, Prisma.
+  **(https://github.com/DanielRuvchee/JobBoard)**: Something simillar like LinkedIn(but created by me) with NextJS, Tailwind, AuthJS, Arcjet, Inngest, Shadcn, Neon, Prisma.
 
 
 
