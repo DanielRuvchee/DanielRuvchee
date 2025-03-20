@@ -10,21 +10,32 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 ## Projects
 
 Here are a few highlights of my work:<br>
-- **[Eshop](https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
+- **Eshop**<br>
+- **(https://github.com/DanielRuvchee/Eshop)**: Django based application with tailwind, detailed page with products, categories, dashboard.
   option for creating an account, loging in if alredy an user. Adding new products and editing them.
   <br>
-- **[RestaurantApp ](https://github.com/DanielRuvchee/RestaurantApp)**: React Native mobile application for a Pizza Restaurant.
+- **RestaurantApp**<br>
+- **(https://github.com/DanielRuvchee/RestaurantApp)**: React Native mobile application for a Pizza Restaurant.
   <br>
-- **[Movie WebApp ](https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
+- **Movie WebApp**<br>
+- **(https://github.com/DanielRuvchee/Movie-WebApp)**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
   <br>
-- **[BlogRuvche ](https://github.com/DanielRuvchee/BlogRuvche)**: NextJS, Tailwind, Shadcn, Neon, Prisma.
+- **BlogRuvche**<br>
+- **(https://github.com/DanielRuvchee/BlogRuvche)**: NextJS, Tailwind, Shadcn, Neon, Prisma.
+  <br>
+- **JobBoard**<br>
+- **(https://github.com/DanielRuvchee/JobBoard)**: Something simillar like LinkedIn(but created by me) with NextJS, Tailwind, AuthJS, Arcjet, Inngest, Shadcn, Neon, Prisma.
+
+
+
+
   
 
 ## Skills
 
 - **Languages**: Java, Python, JavaScript, C++, C#,
 - **Web Development**: HTML, CSS, Django, React, ReactNative, NextJS Tailwind, Bootstrap, React, Vue, RESTful API Design, Shadcn
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, Prisma
 - **Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm), Kibana, Grafana.
 
 ## Get in Touch
