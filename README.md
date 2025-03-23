@@ -4,8 +4,8 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 
 ## About Me
 
-- 📚 Currently studying Computer Science at Faculty of Computer Science and Engineering in Skopje.
-- 💻 Fascinated by web development.
+📚 Currently studying Computer Science at Faculty of Computer Science and Engineering in Skopje.<br>
+💻 Fascinated by web development.
 
 ## Projects
 
@@ -40,8 +40,8 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 
 ## Get in Touch
 
-📫 You can reach me at famruvcheski@gmail.com
-💼 Connect with me on [LinkedIn](www.linkedin.com/in/daniel-ruvcheski-5031a6237)
-📸 Follow me on [Instagram](https://www.instagram.com/danielruvchee/)
+📫 You can reach me at famruvcheski@gmail.com<br>
+💼 Connect with me on [LinkedIn](www.linkedin.com/in/daniel-ruvcheski-5031a6237)<br>
+📸 Follow me on [Instagram](https://www.instagram.com/danielruvchee/)<br>
 
 Feel free to explore my repositories and contribute to any projects that interest you. 
