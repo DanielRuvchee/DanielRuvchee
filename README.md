@@ -24,7 +24,7 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
   **https://github.com/DanielRuvchee/BlogRuvche**: NextJS, Tailwind, Shadcn, Neon, Prisma.
   <br>
 **⭐️JobBoard**<br>
-  **https://github.com/DanielRuvchee/JobBoard**: Something simillar like LinkedIn(but created by me) with NextJS, Tailwind, AuthJS, Arcjet, Inngest, Shadcn, Neon, Prisma.
+  **https://github.com/DanielRuvchee/JobBoard**: Something simillar like Indeed(Job board created by me) with NextJS, Tailwind, AuthJS, Arcjet, Inngest, Shadcn, Neon, Prisma.
 
 
 
