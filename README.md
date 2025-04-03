@@ -35,7 +35,7 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 
 ⚙️**Languages**: Java, Python, JavaScript, C++, C#,<br>
 ⚙️**Web Development**: HTML, CSS, Django, React, ReactNative, NextJS Tailwind, Bootstrap, React, RESTful API Design, Shadcn<br>
-⚙️**Databases**: PostgreSQL, MySQL, SubaBase, Neon, Prisma<br>
+⚙️**Databases**: PostgreSQL, MySQL, MongoDB, SubaBase, Neon, Prisma<br>
 ⚙️**Tools**: Git, GitHub, VSCode, VisualS Studio, JetBrains IDEs (IntelliJ, WebStorm, PyCharm), Kibana, Grafana.
 
 ## Get in Touch
