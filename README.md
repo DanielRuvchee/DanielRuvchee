@@ -20,8 +20,8 @@ Hi there! 👋 I'm Daniel Ruvcheski, a passionate Computer Science developer exp
 **⭐️Movie WebApp**<br>
   **https://github.com/DanielRuvchee/Movie-WebApp**: React Web application for a Searching movies and displaying the most trending movies at the moment. Using Tailwind for styling.
   <br>
-**⭐️BlogRuvche**<br>
-  **https://github.com/DanielRuvchee/BlogRuvche**: NextJS, Tailwind, Shadcn, Neon, Prisma.
+**⭐️Book Vault**<br>
+  **https://github.com/DanielRuvchee/go-bookvault**: RESTful API built in Go (Golang) and NextJS following a clean and scalable architecture. GO, NextJS, Tailwind, GIN, PostgreSQL.
   <br>
 **⭐️JobBoard**<br>
   **https://github.com/DanielRuvchee/JobBoard**: Something simillar like Indeed(Job board created by me) with NextJS, Tailwind, AuthJS, Arcjet, Inngest, Shadcn, Neon, Prisma.
