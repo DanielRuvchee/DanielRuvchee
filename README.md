@@ -31,7 +31,7 @@ Hi there!  I'm Daniel Ruvcheski, a passionate Computer Science developer explori
 
   
 
-## 🛠🛠Skills
+##Skills
 
 ⚙️**Languages**: Java, Python, JavaScript, C++, C#, Golang<br>
 ⚙️**Web Development**: HTML, CSS, Django, React, ReactNative, NextJS, HTMX Tailwind, Bootstrap, React, RESTful API Design, Shadcn<br>
@@ -40,8 +40,8 @@ Hi there!  I'm Daniel Ruvcheski, a passionate Computer Science developer explori
 
 ## Get in Touch
 
-📫 You can reach me at famruvcheski@gmail.com<br>
-💼 Connect with me on [LinkedIn](www.linkedin.com/in/daniel-ruvcheski-5031a6237)<br>
-📸 Follow me on [Instagram](https://www.instagram.com/danielruvchee/)<br>
+   You can reach me at famruvcheski@gmail.com<br>
+   Connect with me on [LinkedIn](www.linkedin.com/in/daniel-ruvcheski-5031a6237)<br>
+   Follow me on [Instagram](https://www.instagram.com/danielruvchee/)<br>
 
 Feel free to explore my repositories and contribute to any projects that interest you. 
